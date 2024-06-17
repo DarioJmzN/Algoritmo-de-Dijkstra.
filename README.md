@@ -1,7 +1,7 @@
 
 # **Mi Asombroso y Altamente Reprobable Proyecto  Algoritmo de Dijkstra**
 
-![Visual studio code ]([https://i.pinimg.com/600x315/39/01/27/390127bb4051d747c356740d888d2aed.jpg](https://cdn.slidesharecdn.com/ss_thumbnails/elalgoritmodedijkstra-211201211605-thumbnail.jpg?width=640&height=640&fit=bounds))
+![Visual studio code ]([https://i.pinimg.com/600x315/39/01/27/390127bb4051d747c356740d888d2aed.jpg](https://cdn.slidesharecdn.com/ss_thumbnails/elalgoritmodedijkstra-211201211605-thumbnail.jpgwidth=640&height=640&fit=bounds))
 
 ## *** ¿Qué es? ***
 
